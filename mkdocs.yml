@@ -7,7 +7,7 @@ site_url: !ENV READTHEDOCS_CANONICAL_URL
 
 # Set the Material for MkDocs theme
 theme:
-  name: material
+  name: shadcn
   # https://squidfunk.github.io/mkdocs-material/customization/
   custom_dir: docs/overrides
 
