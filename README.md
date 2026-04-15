@@ -1,2 +1,3 @@
 # turnroot-framework-docs
-https://app.readthedocs.org/projects/turnroot-framework-docs/badge/
+
+[![Documentation Status](https://readthedocs.org/projects/turnroot-framework-docs/badge/?version=latest)](http://docs.turnroot.com/?badge=latest)
